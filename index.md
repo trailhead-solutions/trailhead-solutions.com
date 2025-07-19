@@ -8,7 +8,7 @@ body { background-color: #e4dcc9; }
 </style>
 
 <p align="center">
-  <img src="assets/logo_1.png" alt="Trailhead Solutions Logo" width="360" />
+  <img src="assets/logo_2.png" alt="Trailhead Solutions Logo" width="360" />
 </p>
 
 ---
