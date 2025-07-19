@@ -52,7 +52,6 @@ Our mission is to provide trusted technology leadership that helps organizations
 
 - Trailhead Solutions partners with a limited number of organizations each year to provide focused, high-impact consulting.  
 - Currently, we welcome new client relationships exclusively through professional introductions or referrals.  
-- We appreciate your interest in our practice.
 
 ---
 
