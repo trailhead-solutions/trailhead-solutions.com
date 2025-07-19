@@ -4,14 +4,15 @@ title: Trailhead Solutions
 ---
 
 <style>
-  body {
-    background-color: #e4dcc9;
-  }
+body { background-color: #e4dcc9; }
+.site-title, .site-footer-credits { display: none !important; }
 </style>
 
 <p align="center">
   <img src="assets/logo.png" alt="Trailhead Solutions Logo" width="360" />
 </p>
+
+<p align="center"><em>Start your technology journey with the right guide.</em></p>
 
 ---
 
