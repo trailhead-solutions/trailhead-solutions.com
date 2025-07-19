@@ -13,13 +13,13 @@ body { background-color: #e4dcc9; }
 
 ---
 
-## About Trailhead Solutions
+### About
 
 **Trailhead Solutions** is a boutique IT consultancy dedicated to helping organizations embark on—and navigate—their technology journey. Like an experienced guide at the trailhead, we offer the expertise, insight, and reliable support needed to set out with confidence, whether you’re charting your foundational path or forging ahead to new heights.
 
 ---
 
-## Our Expertise
+### Our Expertise
 
 From strategy through implementation, our focus areas include:
 
@@ -36,23 +36,23 @@ From strategy through implementation, our focus areas include:
 
 ---
 
-## How We Work
+### How We Work
 
 We begin with attentive listening. By understanding your unique goals and challenges, we chart a practical route forward—offering reliable guidance and support at every step.
 
 ---
 
-## Mission
+### Mission
 
 Our mission is to provide trusted technology leadership that helps organizations start strong, stay aligned, and achieve their ambitions.
 
 ---
 
-## Invitation Only
+### Invitation Only
 
-Trailhead Solutions partners with a limited number of organizations each year to provide focused, high-impact consulting.  
-Currently, we welcome new client relationships exclusively through professional introductions or referrals.  
-We appreciate your interest in our practice.
+- Trailhead Solutions partners with a limited number of organizations each year to provide focused, high-impact consulting.  
+- Currently, we welcome new client relationships exclusively through professional introductions or referrals.  
+- We appreciate your interest in our practice.
 
 ---
 
