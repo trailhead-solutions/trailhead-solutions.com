@@ -1,3 +1,8 @@
+---
+layout: home
+title: Trailhead Solutions
+---
+
 <p align="center">
   <img src="logo.png" alt="Trailhead Solutions Logo" width="360" />
 </p>
