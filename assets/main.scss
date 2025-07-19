@@ -1,0 +1,21 @@
+---
+---
+
+@import "minima";
+
+body {
+  background-color: #e4dcc9;
+}
+
+.site-header,
+.site-footer {
+  display: none !important;
+}
+
+.custom-footer {
+  text-align: center;
+  color: #555;
+  margin-top: 3em;
+  padding: 1em 0;
+  font-size: 1em;
+}
