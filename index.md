@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Trailhead Solutions
 ---
 
 <style>
