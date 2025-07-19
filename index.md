@@ -3,6 +3,12 @@ layout: home
 title: Trailhead Solutions
 ---
 
+<style>
+  body {
+    background-color: #e4dcc9;
+  }
+</style>
+
 <p align="center">
   <img src="assets/logo.png" alt="Trailhead Solutions Logo" width="360" />
 </p>
