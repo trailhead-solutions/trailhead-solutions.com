@@ -3,9 +3,8 @@ layout: page
 ---
 
 <style>
-body { 
-  background-color: #e4dcc9;
-  color: #3c291a;
+body, h1, h2, h3, h4, h5, h6, p, li, ul, ol, strong, em, a, footer {
+  color: #3c291a !important;
 }
 .site-header, .site-footer { display: none !important; }
 </style>
