@@ -16,13 +16,4 @@ Like a trailhead, we’re here to point you in the right direction—from planni
 
 ---
 
-## Connect
-
-Ready to get started or have questions?
-
-**Web:** [trailhead-solutions.com](https://trailhead-solutions.com)  
-**Email:** <a href="mailto:contact&#64;trailhead-solutions&#46;com">contact&#64;trailhead-solutions&#46;com</a>
-
----
-
 © 2025 Trailhead Solutions LLC. All rights reserved.
