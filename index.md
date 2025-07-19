@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" alt="Trailhead Solutions Logo" width="120" />
+</p>
+
 # Trailhead Solutions
 
 *Start your technology journey with the right guide.*
