@@ -11,8 +11,6 @@ body { background-color: #e4dcc9; }
   <img src="assets/logo.png" alt="Trailhead Solutions Logo" width="360" />
 </p>
 
-<p align="center"><em>Start your technology journey with the right guide.</em></p>
-
 ---
 
 ## About
