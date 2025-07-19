@@ -2,11 +2,6 @@
 layout: page
 ---
 
-<style>
-body { background-color: #e4dcc9; }
-.site-header, .site-footer { display: none !important; }
-</style>
-
 <p align="center">
   <img src="assets/logo.png" alt="Trailhead Solutions Logo" width="360" />
 </p>
@@ -42,6 +37,6 @@ To help your organization start strong, stay on course, and move forward with tr
 
 ---
 
-<footer style="text-align:center; color:#555; margin-top:3em; padding:1em 0;">
+<footer class="custom-footer">
   © 2025 Trailhead Solutions LLC. All rights reserved.
 </footer>
