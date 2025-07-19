@@ -1,28 +1,24 @@
----
-title: Trailhead Solutions
----
-
 # Trailhead Solutions
 
-*Your partner in innovative IT solutions.*
+*Start your technology journey with the right guide.*
 
 ---
 
-## About Us
+## About
 
-**Trailhead Solutions** is a professional IT Solutions LLC dedicated to helping businesses navigate an ever-changing technology landscape. We are committed to providing thoughtful, modern approaches to business technology needs.
-
----
-
-## Our Approach
-
-At Trailhead Solutions, we focus on understanding each client’s unique objectives. Our priority is clear communication, long-term reliability, and building trust through high standards of professionalism.
+**Trailhead Solutions** is an IT consultancy helping organizations set a clear course in technology. With practical experience and straightforward advice, we help you take confident first steps and stay on track as your needs grow.
 
 ---
 
-## Learn More
+## Mission
 
-Ready to discuss how technology can advance your organization? We welcome your questions and inquiries.
+Like a trailhead, we’re here to point you in the right direction—from planning to problem-solving—so you can move forward with confidence.
+
+---
+
+## Connect
+
+Ready to get started or have questions?
 
 **Web:** [trailhead-solutions.com](https://trailhead-solutions.com)  
 **Email:** [contact@trailhead-solutions.com](mailto:contact@trailhead-solutions.com)
